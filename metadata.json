@@ -1,0 +1,6 @@
+{
+  "name": "Build with Gemma Banner Generator",
+  "description": "A customized image generator allowing users to update text over a background PNG and export the result.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
