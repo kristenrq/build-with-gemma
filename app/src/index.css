@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Google Sans Flex", "Google Sans", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Google Sans Flex", "Google Sans", "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+}
